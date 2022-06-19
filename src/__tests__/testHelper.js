@@ -1,9 +1,6 @@
 import { Window } from 'happy-dom';
 import { init } from '../init';
 
-// import { htmlStr } from './DOM';
-// import Calculator from '../data/Calculator';
-
 const window = new Window();
 export const { document } = window;
 
